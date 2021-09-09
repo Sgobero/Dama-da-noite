@@ -3,17 +3,17 @@ body {
     margin-left: 50px;
 }
 h1 {
-    margin-left: 55px;
+    margin-left: 35px;
 
     color: #fc637d;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family:Andale Mono, monospace;
     font-weight: bolder;
 }
 h2 {
-    margin-left: 55px;
+    margin-left: 35px;
 
     color: #ff7d93;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family:Andale Mono, monospace;
     font-weight: bolder;
 }
 p {
