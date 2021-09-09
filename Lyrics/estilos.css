@@ -1,0 +1,21 @@
+
+body {
+    margin-left: 50px;
+}
+h1 {
+    margin-left: 55px;
+
+    color: #fc637d;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bolder;
+}
+h2 {
+    margin-left: 55px;
+
+    color: #ff7d93;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bolder;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
